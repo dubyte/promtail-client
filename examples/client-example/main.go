@@ -2,10 +2,11 @@ package main
 
 import (
 	"fmt"
-	"github.com/afiskon/promtail-client/promtail"
 	"log"
 	"os"
 	"time"
+
+	"github.com/dubyte/promtail-client/promtail"
 )
 
 func displayUsage() {

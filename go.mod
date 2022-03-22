@@ -1,4 +1,4 @@
-module github.com/afiskon/promtail-client
+module github.com/dubyte/promtail-client
 
 go 1.17
 

@@ -1,4 +1,6 @@
 # promtail-client
+This is a fork from https://github.com/afiskon/promtail-client
+which adds prefixFormat, I hope this is temporal until my PR is reviewed.
 
 Promtail client library. Promtail is an agent for [Loki](https://github.com/grafana/loki) logging system.
 

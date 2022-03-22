@@ -2,7 +2,7 @@ package promtail
 
 import (
 	"fmt"
-	"github.com/afiskon/promtail-client/logproto"
+	"github.com/dubyte/promtail-client/logproto"
 	"github.com/golang/protobuf/proto"
 	"github.com/golang/protobuf/ptypes/timestamp"
 	"github.com/golang/snappy"
